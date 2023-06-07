@@ -6,4 +6,3 @@ def uppercase(string):
             c = chr(ord(c) - ord('a') + ord('A'))
             print("{}".format(c), end="")
             print()
-                                                
